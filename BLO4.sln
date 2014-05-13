@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLO4.1", "BLO4.1\BLO4.1.csproj", "{33AACE1C-E26A-4D52-9842-8F2F99237A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLO4.2", "BLO4.2\BLO4.2.csproj", "{A866CCD2-F293-46CF-98B9-4784AB734928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AACE1C-E26A-4D52-9842-8F2F99237A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AACE1C-E26A-4D52-9842-8F2F99237A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AACE1C-E26A-4D52-9842-8F2F99237A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AACE1C-E26A-4D52-9842-8F2F99237A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A866CCD2-F293-46CF-98B9-4784AB734928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A866CCD2-F293-46CF-98B9-4784AB734928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A866CCD2-F293-46CF-98B9-4784AB734928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A866CCD2-F293-46CF-98B9-4784AB734928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
